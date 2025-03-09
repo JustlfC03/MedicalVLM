@@ -1,1 +1,1 @@
-# MedicalLLM
+# MedicalVLM
